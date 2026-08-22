@@ -33,21 +33,26 @@ Compile:
 javac src/PortScanner.java
 ```
 
-Run:
-
+## Run:
+```
 java -cp src PortScanner
-Example
+```
+
+## Example
 Enter host: localhost
 Enter starting port: 1
 Enter ending port: 100
 
+```
 Scanning localhost...
 
 Port 22 → OPEN
 Port 80 → OPEN
 
 Scan completed.
-How It Works
+```
+
+## How It Works
 
 The program attempts to establish a TCP connection to each port.
 
@@ -55,7 +60,8 @@ If the connection succeeds, the port is considered OPEN.
 
 If the connection fails or times out, the port is considered CLOSED.
 
-Future Improvements
+## Future Improvements
+
 Multithreaded scanning
 Service detection
 Banner grabbing
