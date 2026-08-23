@@ -14,7 +14,7 @@ A simple TCP Port Scanner built using Java.
 
 - Java
 - Java Sockets
-- VS Code
+- VS 
 
 ## Project Structure
 
