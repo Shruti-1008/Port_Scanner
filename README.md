@@ -10,7 +10,7 @@ A simple TCP Port Scanner built using Java.
 - Simple command-line interface
 - Configurable connection timeout
 
-## Technologies
+## Technolog
 
 - Java
 - Java Sockets
