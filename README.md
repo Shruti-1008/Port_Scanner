@@ -6,7 +6,7 @@ A simple TCP Port Scanner built using Java.
 
 - Scan a hostname or IP address
 - Scan a range of ports
-- Detect open TCP ports
+- Detect open TCP por
 - Simple command-line interface
 - Configurable connection timeout
 
