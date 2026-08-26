@@ -1,4 +1,4 @@
-# Java Port Scan
+# Java Port Scanner
 
 A simple TCP Port Scanner built using Java.
 
