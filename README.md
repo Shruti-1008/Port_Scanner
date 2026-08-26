@@ -13,7 +13,7 @@ A simple TCP Port Scanner built using Java.
 ## Technologies:
 
 - Java
-- Java Sockets
+- Java Socke
 - VS Code
 
 ## Project Structure
