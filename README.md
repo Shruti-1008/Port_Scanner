@@ -2,7 +2,7 @@
 
 A simple TCP Port Scanner built using Java.
 
-## Features
+## Featur
 
 - Scan a hostname or IP address
 - Scan a range of ports
