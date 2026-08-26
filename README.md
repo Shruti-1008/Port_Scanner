@@ -1,4 +1,4 @@
-# Java Port Sca
+# Java Port Sc
 
 A simple TCP Port Scanner built using Java.
 
